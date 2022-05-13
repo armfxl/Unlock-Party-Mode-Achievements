@@ -1,4 +1,4 @@
-### Video Tutorial:
+- [Video Tutorial](https://www.youtube.com/watch?v=l5em6TEtkJk)
 
 ### Console command
 ```js
